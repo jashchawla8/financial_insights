@@ -21,6 +21,8 @@ This project implements a robust ETL (Extract, Transform, Load) pipeline for fin
 ---
 
 ## Architecture
+![image](https://github.com/user-attachments/assets/a0e2a7a3-6338-4f46-9719-e8a485f610ce)
+
 The pipeline consists of:
 1. **Postgres**:
    - Source database with tables for transactional and account data.
